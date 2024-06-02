@@ -20,3 +20,4 @@ Below is some screenshot of the final application.
 <img width="100%" alt="1" src="https://github.com/Favoursnazy/whatsapp-dsktop-app-electron/assets/53080790/7ebf39b2-74e7-4ae4-9901-80a8fc313279">
 <img width="100%" alt="2" src="https://github.com/Favoursnazy/whatsapp-dsktop-app-electron/assets/53080790/e9e21966-f525-49bf-8420-a382aa5e08b9">
 <img width="100%" alt="3" src="https://github.com/Favoursnazy/whatsapp-dsktop-app-electron/assets/53080790/8bd27aa0-ca4a-4696-94d9-cde21bbab121">
+<img width="100%" alt="7" src="https://github.com/Favoursnazy/whatsapp-dsktop-app-electron/assets/53080790/f289ecb7-0fe7-4849-8527-184e5b00ca68">
