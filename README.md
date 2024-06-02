@@ -1,18 +1,16 @@
 Hello guys,
 
-this is a whatsapp clone appliction built with electron js.
+this is a whatsapp clone application built with electron js.
 
-electron js is a free open-source software framwork built by Open JS for building desktop application.
+electron js is a free open-source software framework built by Open JS for building desktop application.
 
 This app was built with react js and react router dom for easy navigaton from page to page.
 
-Aos library was also add for easy transtion and animating of pages.
+Aos library was also added for easy transtion and animating of pages.
 
-Below are some screen shot of the app
+electron-store was also addded for store and persisting the light and dark mode in the appliation, you can see electron-sore as same as localstorage for web browser or asyncstorage for react native for storing light weight data.
 
-electron-store was alos addded for store and persisting the light and dark mode in the apllication, you can see electron js an same localstorage on web browser or asyncstorag on react native for storing light weight data.
-
-i will try to add some functionally to it.
+i will try to add some functionally to it by making it a full stack desktop application.
 
 Below is some screenshot of the final application.
 
